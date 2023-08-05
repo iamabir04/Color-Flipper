@@ -1,4 +1,3 @@
-
 # Color Flipper Project Readme
 
 # Color-Flipper
@@ -6,6 +5,7 @@
 The Color Flipper project is a fun and interactive web application built using HTML, CSS, and JavaScript. It allows users to change the background color and update the displayed text with a single click of the "Click Me" button.
 <br>
 <br>
+
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
